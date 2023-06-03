@@ -1,0 +1,1 @@
+# reght_store_format
